@@ -21,6 +21,6 @@
 - **Прочее:** Знаю основы front-end (React.js/Redux/Webpack), применял в работе Golang, Python, Node.js/NestJS/JavaScript, RabbitMQ, MySQL, TypeScript, PHP, PowerShell
 
 ## 📫 Контакты
-- **Telegram:** [@KuramshinRustam](https://t.me/KuramshinRustam) (предпочтительный способ связи)
+- **Telegram:** [@KuramshinRustam](https://t.me/KuramshinRustam)
 - **Email:** [kuramshin.py@yandex.ru](mailto:kuramshin.py@yandex.ru)
 - **YouTube:** [zen-code](https://www.youtube.com/@zen-code)
