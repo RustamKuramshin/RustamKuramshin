@@ -7,7 +7,7 @@
 🌱 В свободное время занимаюсь изучением новых технологий, решением задач с LeetCode, разработкой собственных проектов и развитием своего кластера Kubernetes на Raspberry Pi.
 
 ## 💻 Основные навыки
-- **Языки программирования:** Java, Kotlin, Groovy
+- **Языки программирования:** Java, Kotlin, Groovy, Go
 - **Фреймворки:** Spring (Boot, Data, Cloud, Security, WebFlux, Kafka), Hibernate ORM, Project Reactor, Micrometer
 - **Тестирование:** JUnit, Spring Boot Test, Mockito, WireMock, JMeter
 - **Системы сборки:** Maven, Gradle
@@ -18,4 +18,4 @@
 - **API-дизайн:** REST API/JSON, GraphQL, gRPC/Protocol Buffers, WebSocket, SSE
 - **Сетевые технологии:** TCP/IP, HTTP, Nginx, Istio
 - **Процессы и инструменты командной разработки:** Agile/Scrum, Jira, YouTrack, Space, Confluence
-- **Прочее:** Знаю основы front-end (React.js/Redux/Webpack), применял в работе Golang, Python, Node.js/NestJS/JavaScript, RabbitMQ, MySQL, TypeScript, PHP, PowerShell
+- **Прочее:** Знаю основы front-end (React.js/Redux/Webpack), применял в работе Python, Node.js/NestJS/JavaScript, RabbitMQ, MySQL, TypeScript, PHP, PowerShell
