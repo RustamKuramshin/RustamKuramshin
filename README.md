@@ -19,8 +19,3 @@
 - **Сетевые технологии:** TCP/IP, HTTP, Nginx, Istio
 - **Процессы и инструменты командной разработки:** Agile/Scrum, Jira, YouTrack, Space, Confluence
 - **Прочее:** Знаю основы front-end (React.js/Redux/Webpack), применял в работе Golang, Python, Node.js/NestJS/JavaScript, RabbitMQ, MySQL, TypeScript, PHP, PowerShell
-
-## 📫 Контакты
-- **Telegram:** [@KuramshinRustam](https://t.me/KuramshinRustam)
-- **Email:** [kuramshin.py@yandex.ru](mailto:kuramshin.py@yandex.ru)
-- **YouTube:** [rustam-kuramshin](https://www.youtube.com/@rustam-kuramshin)
