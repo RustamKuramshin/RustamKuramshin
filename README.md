@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I specialize in backend development using **Java**
 - **Databases**: PostgreSQL, MongoDB, Elasticsearch, Redis, Hazelcast, ClickHouse
 - **Message Queues**: Kafka, RabbitMQ
 - **DevOps & Infrastructure**: Docker, Kubernetes, Jenkins, GitLab CI/CD, Ansible, Prometheus, Grafana
-- **API Design**: REST, GraphQL, gRPC
+- **API Design**: REST, GraphQL, gRPC, WebSocket
 - **Tools**: IntelliJ IDEA, Maven, Gradle, Git
 
 ---
