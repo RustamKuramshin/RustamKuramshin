@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I specialize in backend development using **Java**
 
 ## 🛠️ **Tech Stack & Expertise**
 
-- **Programming Languages**: Java, Kotlin, Groovy, Go
+- **Programming Languages**: Java, Kotlin, Groovy, Go, JavaScript/Node.js
 - **Frameworks**: Spring Boot, Spring Data, Spring Cloud, WebFlux, Project Reactor
 - **Testing**: JUnit, Mockito, WireMock, JMeter
 - **Databases**: PostgreSQL, MongoDB, Elasticsearch, Redis, Hazelcast, ClickHouse
