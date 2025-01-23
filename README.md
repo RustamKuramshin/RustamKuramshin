@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I specialize in backend development using **Java**
     - ["Spring Data REST: Rapid REST API Development"](https://youtu.be/roaGUHaWPxw)
     - ["Proper DevOps for Spring Boot and Java"](https://youtu.be/oKaYqfIevaM)
     - ["Go vs Java: Who will win?"](https://youtu.be/SyLSRYmLeHk)
-- **Hackathon Winner**: 1st place in [Smart Social Hackathon](https://smartsocialconf.ru/hackathon) and [VTB Archi TECH Hackathon](https://architechhack.vtb.ru/) (as part of the "Java Boys" team).
+- **Hackathon Winner**: 1st place in [Smart Social Hackathon](https://smartsocialconf.ru/hackathon) and [VTB Archi TECH Hackathon](https://architechhack.vtb.ru/) (as part of the "**Java Boys**" team).
 - **YouTube Channel**: Sharing knowledge about backend development and JVM optimization on [@Rustam-Kuramshin](https://www.youtube.com/@rustam-kuramshin).
 
 ---
