@@ -28,14 +28,6 @@ I'm a Java Backend Developer, Team/Tech Lead, DevOps Enthusiast with a passion f
 
 ---
 
-## 🌱 **What I’m Working On**
-
-- Exploring JVM optimizations.
-- Building personal projects and contributing to the developer community.
-- Experimenting with Kubernetes on **Raspberry Pi** clusters.
-
----
-
 ## 📈 **Stats & Contributions**
 
 ![Rustam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RustamKuramshin&show_icons=true&theme=radical)
