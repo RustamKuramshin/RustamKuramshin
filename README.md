@@ -24,7 +24,7 @@ I'm a Java Backend Developer, Team/Tech Lead, DevOps Enthusiast with a passion f
     - ["Proper DevOps for Spring Boot and Java"](https://youtu.be/oKaYqfIevaM)
     - ["Go vs Java: Who will win?"](https://youtu.be/SyLSRYmLeHk)
 - **Hackathon Winner**: 1st place in [Smart Social Hackathon](https://smartsocialconf.ru/hackathon) and [VTB Archi TECH Hackathon](https://architechhack.vtb.ru/) (as part of the "**Java Boys**" team).
-- **YouTube Channel**: Sharing knowledge about backend development and JVM optimization on [@Rustam-Kuramshin](https://www.youtube.com/@rustam-kuramshin).
+- **YouTube Channel**: Sharing knowledge about backend development and JVM optimization on [https://www.youtube.com/@rustam-kuramshin](https://www.youtube.com/@rustam-kuramshin).
 
 ---
 
