@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Rustam Kuramshin
+# 👋 Hi there
 
-🚀 **Java Backend Developer | Team/Tech Lead | DevOps Enthusiast**
-
-Welcome to my GitHub profile! I specialize in backend development using **Java**, **Kotlin**, and the **Spring Framework**, with a passion for building scalable, reliable, and high-performance applications. Over the years, I've gained expertise in asynchronous and reactive programming, microservices architecture, and JVM performance tuning.
+I'm a Java Backend Developer, Team/Tech Lead, DevOps Enthusiast with a passion for building scalable, reliable, and high-performance applications. Welcome to my GitHub profile! I specialize in backend development using Java, Kotlin, and the Spring Framework. Over the years, I've gained expertise in asynchronous and reactive programming, microservices architecture, and JVM performance tuning.
 
 ---
 
@@ -41,14 +39,6 @@ Welcome to my GitHub profile! I specialize in backend development using **Java**
 ## 📈 **Stats & Contributions**
 
 ![Rustam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RustamKuramshin&show_icons=true&theme=radical)
-
----
-
-## 📩 **Get in Touch**
-
-- **Telegram**: [@KuramshinRustam](https://t.me/KuramshinRustam)
-- **YouTube**: [@Rustam-Kuramshin](https://www.youtube.com/@rustam-kuramshin)
-- **GitHub**: [github.com/RustamKuramshin](https://github.com/RustamKuramshin)
 
 ---
 
