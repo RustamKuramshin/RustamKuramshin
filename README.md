@@ -31,7 +31,3 @@ I'm a Java Backend Developer, Team/Tech Lead, DevOps Enthusiast with a passion f
 ## 📈 **Stats & Contributions**
 
 ![Rustam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RustamKuramshin&show_icons=true&theme=radical)
-
----
-
-Let’s build something amazing together!
