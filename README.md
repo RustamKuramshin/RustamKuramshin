@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Java backend developer, Team/Tech Lead, Developer Advocate, DevOps enthusiast with a passion for building scalable, reliable, and high-performance applications. Welcome to my GitHub profile! I specialize in backend development using Java, Kotlin, and the Spring Framework. Over the years, I've gained expertise in asynchronous and reactive programming, microservices architecture, and JVM performance tuning.
+I'm a Java backend developer, Tech Lead, and DevOps enthusiast passionate about building scalable and high-performance applications. I specialize in Java, Kotlin, and the Spring Framework, with expertise in asynchronous programming, microservices, and JVM optimization. Welcome to my GitHub!
 
 ---
 
