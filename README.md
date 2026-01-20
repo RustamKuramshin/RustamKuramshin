@@ -26,9 +26,3 @@ I'm a Java backend developer, Tech Lead, and DevOps enthusiast passionate about 
     - [Beautiful Spring Boot: development patterns](https://youtu.be/OXVhxCtPoGA)
 - **Hackathon Winner**: 1st place in [Smart Social Hackathon](https://smartsocialconf.ru/hackathon) and [VTB Archi TECH Hackathon](https://architechhack.vtb.ru/) (as part of the "**Java Boys**" team).
 - **YouTube Channel**: Sharing knowledge about backend development and JVM optimization on [youtube.com/@rustam-kuramshin](https://www.youtube.com/@rustam-kuramshin).
-
----
-
-## 📈 **Stats & Contributions**
-
-![Rustam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RustamKuramshin&show_icons=true&theme=radical)
